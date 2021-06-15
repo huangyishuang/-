@@ -1,0 +1,15 @@
+0.87978 0 0 0 -0.3797 0
+19.14045706162071
+AdamsBashforth 1
+AdamsBashforth 2
+AdamsBashforth 3
+AdamsBashforth 4
+AdamsMoulton 1
+AdamsMoulton 2
+AdamsMoulton 3
+AdamsMoulton 4
+BDF 1
+BDF 2
+BDF 3
+BDF 4
+RungeKutta 1

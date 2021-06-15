@@ -1,0 +1,39 @@
+AdamsBashforth 1
+step length n Solution error  convergence rate      time 
+   50000       0.533432       0.906625         0.174712
+AdamsBashforth 2
+step length n Solution error  convergence rate      time 
+   50000    0.000179017        12.4476         0.178188
+AdamsBashforth 3
+step length n Solution error  convergence rate      time 
+   50000    0.000179756        12.4417          0.18705
+AdamsBashforth 4
+step length n Solution error  convergence rate      time 
+   50000    0.000190325        12.3593         0.196985
+AdamsMoulton 1
+step length n Solution error  convergence rate      time 
+   50000    0.000194898         12.325          0.46063
+AdamsMoulton 2
+step length n Solution error  convergence rate      time 
+   50000    0.000185959        12.3927         0.505649
+AdamsMoulton 3
+step length n Solution error  convergence rate      time 
+   50000    0.000187825        12.3783          0.48941
+AdamsMoulton 4
+step length n Solution error  convergence rate      time 
+   50000    0.000190546        12.3576         0.499065
+BDF 1
+step length n Solution error  convergence rate      time 
+   50000       0.842724       0.246868         0.452077
+BDF 2
+step length n Solution error  convergence rate      time 
+   50000    0.000231671        12.0756          0.45851
+BDF 3
+step length n Solution error  convergence rate      time 
+   50000    0.000194744        12.3261         0.474466
+BDF 4
+step length n Solution error  convergence rate      time 
+   50000    0.000192296        12.3444         0.449022
+RungeKutta 1
+step length n Solution error  convergence rate      time 
+   50000    0.000182058        12.4233         0.257411

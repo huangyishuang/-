@@ -1,0 +1,7 @@
+main:main.o 
+	g++ -o main main.o -llapacke
+main.o:main.cpp vect.h TimeIntegrator.h ScalarFunction.h AdamsBashforth.h AdamsMoulton.h  RungeKutta.h
+	g++ -c main.cpp
+clean:
+	rm main *.o
+
